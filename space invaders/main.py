@@ -1,3 +1,4 @@
+# code by NUHAD N KHAN
 import pygame
 import sys
 import random
